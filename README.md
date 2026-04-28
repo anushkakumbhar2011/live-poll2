@@ -431,7 +431,16 @@ MIT License - See LICENSE file for details
 
 ## Author
 
-Built for Stellar Developer Program - Level 2 Yellow Belt Submission
+Built for Stellar Developer Program - Level 2 Yellow Belt Submission  
+
+
+##screenshots :
+<img width="1470" height="956" alt="Screenshot 2026-04-29 at 2 14 42 AM" src="https://github.com/user-attachments/assets/813c43bb-c488-42ba-89d0-1452c99c3e1a" />
+<img width="1470" height="956" alt="Screenshot 2026-04-29 at 2 14 24 AM" src="https://github.com/user-attachments/assets/bb0d872e-96e6-4f87-812c-111b98018845" />
+<img width="1470" height="956" alt="Screenshot 2026-04-29 at 2 14 37 AM" src="https://github.com/user-attachments/assets/810b161c-41b2-4793-9d9b-0c836ed7c117" />
+
+
+
 
 ---
 
