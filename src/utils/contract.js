@@ -1,4 +1,6 @@
-import {
+import * as StellarSdk from '@stellar/stellar-sdk';
+
+const {
   Contract,
   SorobanRpc,
   TransactionBuilder,
@@ -7,7 +9,7 @@ import {
   xdr,
   scValToNative,
   nativeToScVal,
-} from '@stellar/stellar-sdk';
+} = StellarSdk;
 
 // Contract configuration from environment variables
 const CONTRACT_ID = import.meta.env.VITE_CONTRACT_ID;
