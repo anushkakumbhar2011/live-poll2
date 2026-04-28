@@ -1,3 +1,8 @@
+
+##Live Versal Link:
+live-poll2.vercel.app
+
+
 # Live Poll DApp
 
 A decentralized voting application built on Stellar blockchain using Soroban smart contracts. Users can connect their Stellar wallets and participate in real-time polls with transparent, immutable vote recording on the blockchain.
