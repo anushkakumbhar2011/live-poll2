@@ -140,7 +140,7 @@ useEffect(() => {
 ```
 
 ##Live Versal Link:
-live-poll2.vercel.app
+live-poll2-7sqr.vercel.app
 
 
 ### State Synchronization
